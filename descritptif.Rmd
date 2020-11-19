@@ -5,6 +5,12 @@ output: html_notebook
 
 ---
 # Introduction
+```{r}
+file<-"http://www.ospo.noaa.gov/data/land/bbep2/biomass_burning.txt? filename=LocalFile.txt.gz&dir=C:/R/Data"
+Biomass_Burning_Data <- read.csv(file, header=TRUE)
+head(Biomass_Burning_Data)
+```
+
 
 # Partie I
 # Partie II
