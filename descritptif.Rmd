@@ -1,0 +1,11 @@
+---
+title: "MKA-6005 TRAVAIL DE SESSION EN GROUPE"
+author: Zouheyr,Sébastien, Rachel, Christina
+output: html_notebook
+
+---
+# Introduction
+
+# Partie I
+# Partie II
+# Partie III
